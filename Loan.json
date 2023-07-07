@@ -1,0 +1,762 @@
+[
+ {
+   "id": 1,
+   "name": "Rajesh Kumar",
+   "age": 35,
+   "Income": 50000,
+   "cred_score": 750,
+   "loan_amt": 200000,
+   "loan_term": 36,
+   "int_rate": 8.5
+ },
+ {
+   "id": 2,
+   "name": "Deepa Sharma",
+   "age": 28,
+   "Income": 30000,
+   "cred_score": 680,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.2
+ },
+ {
+   "id": 3,
+   "name": "Vishal Singh",
+   "age": 42,
+   "Income": 80000,
+   "cred_score": 820,
+   "loan_amt": 300000,
+   "loan_term": 48,
+   "int_rate": 7.8
+ },
+ {
+   "id": 4,
+   "name": "Priya Patel",
+   "age": 31,
+   "Income": 45000,
+   "cred_score": 700,
+   "loan_amt": 150000,
+   "loan_term": 36,
+   "int_rate": 8.7
+ },
+ {
+   "id": 5,
+   "name": "Rahul Verma",
+   "age": 29,
+   "Income": 35000,
+   "cred_score": 670,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.5
+ },
+ {
+   "id": 6,
+   "name": "Aarti Gupta",
+   "age": 45,
+   "Income": 90000,
+   "cred_score": 800,
+   "loan_amt": 400000,
+   "loan_term": 60,
+   "int_rate": 7.2
+ },
+ {
+   "id": 7,
+   "name": "Anil Yadav",
+   "age": 38,
+   "Income": 55000,
+   "cred_score": 760,
+   "loan_amt": 200000,
+   "loan_term": 36,
+   "int_rate": 8.3
+ },
+ {
+   "id": 8,
+   "name": "Nisha Reddy",
+   "age": 27,
+   "Income": 28000,
+   "cred_score": 660,
+   "loan_amt": 90000,
+   "loan_term": 24,
+   "int_rate": 9.8
+ },
+ {
+   "id": 9,
+   "name": "Manoj Sharma",
+   "age": 43,
+   "Income": 75000,
+   "cred_score": 810,
+   "loan_amt": 350000,
+   "loan_term": 48,
+   "int_rate": 7.5
+ },
+ {
+   "id": 10,
+   "name": "Sunita Singh",
+   "age": 32,
+   "Income": 42000,
+   "cred_score": 690,
+   "loan_amt": 150000,
+   "loan_term": 36,
+   "int_rate": 8.9
+ },
+ {
+   "id": 11,
+   "name": "Rakesh Patel",
+   "age": 30,
+   "Income": 32000,
+   "cred_score": 650,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.6
+ },
+ {
+   "id": 12,
+   "name": "Anjali Verma",
+   "age": 44,
+   "Income": 85000,
+   "cred_score": 790,
+   "loan_amt": 400000,
+   "loan_term": 60,
+   "int_rate": 7
+ },
+ {
+   "id": 13,
+   "name": "Sanjay Kumar",
+   "age": 37,
+   "Income": 52000,
+   "cred_score": 740,
+   "loan_amt": 200000,
+   "loan_term": 36,
+   "int_rate": 8
+ },
+ {
+   "id": 14,
+   "name": "Shweta Sharma",
+   "age": 26,
+   "Income": 25000,
+   "cred_score": 640,
+   "loan_amt": 80000,
+   "loan_term": 24,
+   "int_rate": 9.9
+ },
+ {
+   "id": 15,
+   "name": "Rajeev Gupta",
+   "age": 39,
+   "Income": 58000,
+   "cred_score": 770,
+   "loan_amt": 250000,
+   "loan_term": 48,
+   "int_rate": 7.6
+ },
+ {
+   "id": 16,
+   "name": "Meena Yadav",
+   "age": 33,
+   "Income": 38000,
+   "cred_score": 680,
+   "loan_amt": 120000,
+   "loan_term": 36,
+   "int_rate": 8.6
+ },
+ {
+   "id": 17,
+   "name": "Vineet Reddy",
+   "age": 29,
+   "Income": 30000,
+   "cred_score": 670,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.4
+ },
+ {
+   "id": 18,
+   "name": "Neeta Sharma",
+   "age": 46,
+   "Income": 92000,
+   "cred_score": 810,
+   "loan_amt": 450000,
+   "loan_term": 60,
+   "int_rate": 7.1
+ },
+ {
+   "id": 19,
+   "name": "Ravi Singh",
+   "age": 40,
+   "Income": 60000,
+   "cred_score": 780,
+   "loan_amt": 300000,
+   "loan_term": 48,
+   "int_rate": 7.9
+ },
+ {
+   "id": 20,
+   "name": "Pooja Patel",
+   "age": 29,
+   "Income": 35000,
+   "cred_score": 670,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.7
+ },
+ {
+   "id": 21,
+   "name": "Ashish Verma",
+   "age": 35,
+   "Income": 50000,
+   "cred_score": 750,
+   "loan_amt": 200000,
+   "loan_term": 36,
+   "int_rate": 8.4
+ },
+ {
+   "id": 22,
+   "name": "Rekha Yadav",
+   "age": 28,
+   "Income": 30000,
+   "cred_score": 680,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.3
+ },
+ {
+   "id": 23,
+   "name": "Vivek Sharma",
+   "age": 42,
+   "Income": 80000,
+   "cred_score": 820,
+   "loan_amt": 300000,
+   "loan_term": 48,
+   "int_rate": 7.7
+ },
+ {
+   "id": 24,
+   "name": "Shalini Patel",
+   "age": 31,
+   "Income": 45000,
+   "cred_score": 700,
+   "loan_amt": 150000,
+   "loan_term": 36,
+   "int_rate": 8.8
+ },
+ {
+   "id": 25,
+   "name": "Gaurav Verma",
+   "age": 29,
+   "Income": 35000,
+   "cred_score": 670,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.6
+ },
+ {
+   "id": 26,
+   "name": "Kavita Gupta",
+   "age": 45,
+   "Income": 90000,
+   "cred_score": 800,
+   "loan_amt": 400000,
+   "loan_term": 60,
+   "int_rate": 7.3
+ },
+ {
+   "id": 27,
+   "name": "Mukesh Yadav",
+   "age": 38,
+   "Income": 55000,
+   "cred_score": 760,
+   "loan_amt": 200000,
+   "loan_term": 36,
+   "int_rate": 8.2
+ },
+ {
+   "id": 28,
+   "name": "Shanti Reddy",
+   "age": 27,
+   "Income": 28000,
+   "cred_score": 660,
+   "loan_amt": 90000,
+   "loan_term": 24,
+   "int_rate": 9.9
+ },
+ {
+   "id": 29,
+   "name": "Raju Sharma",
+   "age": 43,
+   "Income": 75000,
+   "cred_score": 810,
+   "loan_amt": 350000,
+   "loan_term": 48,
+   "int_rate": 7.4
+ },
+ {
+   "id": 30,
+   "name": "Geeta Singh",
+   "age": 32,
+   "Income": 42000,
+   "cred_score": 690,
+   "loan_amt": 150000,
+   "loan_term": 36,
+   "int_rate": 8.8
+ },
+ {
+   "id": 31,
+   "name": "Suresh Patel",
+   "age": 30,
+   "Income": 32000,
+   "cred_score": 650,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.7
+ },
+ {
+   "id": 32,
+   "name": "Meera Verma",
+   "age": 44,
+   "Income": 85000,
+   "cred_score": 790,
+   "loan_amt": 400000,
+   "loan_term": 60,
+   "int_rate": 7.1
+ },
+ {
+   "id": 33,
+   "name": "Arun Kumar",
+   "age": 37,
+   "Income": 52000,
+   "cred_score": 740,
+   "loan_amt": 200000,
+   "loan_term": 36,
+   "int_rate": 8.1
+ },
+ {
+   "id": 34,
+   "name": "Rina Sharma",
+   "age": 26,
+   "Income": 25000,
+   "cred_score": 640,
+   "loan_amt": 80000,
+   "loan_term": 24,
+   "int_rate": 9.8
+ },
+ {
+   "id": 35,
+   "name": "Manish Gupta",
+   "age": 39,
+   "Income": 58000,
+   "cred_score": 770,
+   "loan_amt": 250000,
+   "loan_term": 48,
+   "int_rate": 7.5
+ },
+ {
+   "id": 36,
+   "name": "Anita Yadav",
+   "age": 33,
+   "Income": 38000,
+   "cred_score": 680,
+   "loan_amt": 120000,
+   "loan_term": 36,
+   "int_rate": 8.5
+ },
+ {
+   "id": 37,
+   "name": "Prakash Reddy",
+   "age": 29,
+   "Income": 30000,
+   "cred_score": 670,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.3
+ },
+ {
+   "id": 38,
+   "name": "Ananya Sharma",
+   "age": 46,
+   "Income": 92000,
+   "cred_score": 810,
+   "loan_amt": 450000,
+   "loan_term": 60,
+   "int_rate": 7
+ },
+ {
+   "id": 39,
+   "name": "Rohit Singh",
+   "age": 40,
+   "Income": 60000,
+   "cred_score": 780,
+   "loan_amt": 300000,
+   "loan_term": 48,
+   "int_rate": 7.9
+ },
+ {
+   "id": 40,
+   "name": "Poonam Patel",
+   "age": 29,
+   "Income": 35000,
+   "cred_score": 670,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.8
+ },
+ {
+   "id": 41,
+   "name": "Ajay Verma",
+   "age": 35,
+   "Income": 50000,
+   "cred_score": 750,
+   "loan_amt": 200000,
+   "loan_term": 36,
+   "int_rate": 8.7
+ },
+ {
+   "id": 42,
+   "name": "Meera Yadav",
+   "age": 28,
+   "Income": 30000,
+   "cred_score": 680,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.6
+ },
+ {
+   "id": 43,
+   "name": "Pradeep Sharma",
+   "age": 42,
+   "Income": 80000,
+   "cred_score": 820,
+   "loan_amt": 300000,
+   "loan_term": 48,
+   "int_rate": 7.7
+ },
+ {
+   "id": 44,
+   "name": "Renu Patel",
+   "age": 31,
+   "Income": 45000,
+   "cred_score": 700,
+   "loan_amt": 150000,
+   "loan_term": 36,
+   "int_rate": 8.6
+ },
+ {
+   "id": 45,
+   "name": "Vikas Verma",
+   "age": 29,
+   "Income": 35000,
+   "cred_score": 670,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.5
+ },
+ {
+   "id": 46,
+   "name": "Jyoti Gupta",
+   "age": 45,
+   "Income": 90000,
+   "cred_score": 800,
+   "loan_amt": 400000,
+   "loan_term": 60,
+   "int_rate": 7.4
+ },
+ {
+   "id": 47,
+   "name": "Manish Yadav",
+   "age": 38,
+   "Income": 55000,
+   "cred_score": 760,
+   "loan_amt": 200000,
+   "loan_term": 36,
+   "int_rate": 8.3
+ },
+ {
+   "id": 48,
+   "name": "Shikha Reddy",
+   "age": 27,
+   "Income": 28000,
+   "cred_score": 660,
+   "loan_amt": 90000,
+   "loan_term": 24,
+   "int_rate": 9.2
+ },
+ {
+   "id": 49,
+   "name": "Sushil Sharma",
+   "age": 43,
+   "Income": 75000,
+   "cred_score": 810,
+   "loan_amt": 350000,
+   "loan_term": 48,
+   "int_rate": 7.3
+ },
+ {
+   "id": 50,
+   "name": "Nisha Singh",
+   "age": 32,
+   "Income": 42000,
+   "cred_score": 690,
+   "loan_amt": 150000,
+   "loan_term": 36,
+   "int_rate": 8.2
+ },
+ {
+   "id": 51,
+   "name": "Sanjay Patel",
+   "age": 30,
+   "Income": 32000,
+   "cred_score": 650,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.1
+ },
+ {
+   "id": 52,
+   "name": "Kavita Verma",
+   "age": 44,
+   "Income": 85000,
+   "cred_score": 790,
+   "loan_amt": 400000,
+   "loan_term": 60,
+   "int_rate": 7.2
+ },
+ {
+   "id": 53,
+   "name": "Anil Kumar",
+   "age": 37,
+   "Income": 52000,
+   "cred_score": 740,
+   "loan_amt": 200000,
+   "loan_term": 36,
+   "int_rate": 8.1
+ },
+ {
+   "id": 54,
+   "name": "Sangeeta Sharma",
+   "age": 26,
+   "Income": 25000,
+   "cred_score": 640,
+   "loan_amt": 80000,
+   "loan_term": 24,
+   "int_rate": 9
+ },
+ {
+   "id": 55,
+   "name": "Rakesh Gupta",
+   "age": 39,
+   "Income": 58000,
+   "cred_score": 770,
+   "loan_amt": 250000,
+   "loan_term": 48,
+   "int_rate": 7.1
+ },
+ {
+   "id": 56,
+   "name": "Sarita Yadav",
+   "age": 33,
+   "Income": 38000,
+   "cred_score": 680,
+   "loan_amt": 120000,
+   "loan_term": 36,
+   "int_rate": 8
+ },
+ {
+   "id": 57,
+   "name": "Vineeta Reddy",
+   "age": 29,
+   "Income": 30000,
+   "cred_score": 670,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.9
+ },
+ {
+   "id": 58,
+   "name": "Neetu Sharma",
+   "age": 46,
+   "Income": 92000,
+   "cred_score": 810,
+   "loan_amt": 450000,
+   "loan_term": 60,
+   "int_rate": 7
+ },
+ {
+   "id": 59,
+   "name": "Ajay Singh",
+   "age": 40,
+   "Income": 60000,
+   "cred_score": 780,
+   "loan_amt": 300000,
+   "loan_term": 48,
+   "int_rate": 8.9
+ },
+ {
+   "id": 60,
+   "name": "Sujata Patel",
+   "age": 29,
+   "Income": 35000,
+   "cred_score": 670,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.8
+ },
+ {
+   "id": 61,
+   "name": "Mukesh Verma",
+   "age": 35,
+   "Income": 50000,
+   "cred_score": 750,
+   "loan_amt": 200000,
+   "loan_term": 36,
+   "int_rate": 8.7
+ },
+ {
+   "id": 62,
+   "name": "Preeti Yadav",
+   "age": 28,
+   "Income": 30000,
+   "cred_score": 680,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.6
+ },
+ {
+   "id": 63,
+   "name": "Ravi Sharma",
+   "age": 42,
+   "Income": 80000,
+   "cred_score": 820,
+   "loan_amt": 300000,
+   "loan_term": 48,
+   "int_rate": 7.7
+ },
+ {
+   "id": 64,
+   "name": "Deepika Patel",
+   "age": 31,
+   "Income": 45000,
+   "cred_score": 700,
+   "loan_amt": 150000,
+   "loan_term": 36,
+   "int_rate": 8.6
+ },
+ {
+   "id": 65,
+   "name": "Abhishek Verma",
+   "age": 29,
+   "Income": 35000,
+   "cred_score": 670,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.5
+ },
+ {
+   "id": 66,
+   "name": "Shalini Gupta",
+   "age": 45,
+   "Income": 90000,
+   "cred_score": 800,
+   "loan_amt": 400000,
+   "loan_term": 60,
+   "int_rate": 7.4
+ },
+ {
+   "id": 67,
+   "name": "Manoj Yadav",
+   "age": 38,
+   "Income": 55000,
+   "cred_score": 760,
+   "loan_amt": 200000,
+   "loan_term": 36,
+   "int_rate": 8.3
+ },
+ {
+   "id": 68,
+   "name": "Nidhi Reddy",
+   "age": 27,
+   "Income": 28000,
+   "cred_score": 660,
+   "loan_amt": 90000,
+   "loan_term": 24,
+   "int_rate": 9.2
+ },
+ {
+   "id": 69,
+   "name": "Rajesh Sharma",
+   "age": 43,
+   "Income": 75000,
+   "cred_score": 810,
+   "loan_amt": 350000,
+   "loan_term": 48,
+   "int_rate": 7.3
+ },
+ {
+   "id": 70,
+   "name": "Reena Singh",
+   "age": 32,
+   "Income": 42000,
+   "cred_score": 690,
+   "loan_amt": 150000,
+   "loan_term": 36,
+   "int_rate": 8.2
+ },
+ {
+   "id": 71,
+   "name": "Ankit Patel",
+   "age": 30,
+   "Income": 32000,
+   "cred_score": 650,
+   "loan_amt": 100000,
+   "loan_term": 24,
+   "int_rate": 9.1
+ },
+ {
+   "id": 72,
+   "name": "Kanchan Verma",
+   "age": 44,
+   "Income": 85000,
+   "cred_score": 790,
+   "loan_amt": 400000,
+   "loan_term": 60,
+   "int_rate": 7.2
+ },
+ {
+   "id": 73,
+   "name": "Suman Kumar",
+   "age": 37,
+   "Income": 52000,
+   "cred_score": 740,
+   "loan_amt": 200000,
+   "loan_term": 36,
+   "int_rate": 8.1
+ },
+ {
+   "id": 74,
+   "name": "Anjali Sharma",
+   "age": 26,
+   "Income": 25000,
+   "cred_score": 640,
+   "loan_amt": 80000,
+   "loan_term": 24,
+   "int_rate": 9
+ },
+ {
+   "id": 75,
+   "name": "Pradeep Yadav",
+   "age": 39,
+   "Income": 58000,
+   "cred_score": 770,
+   "loan_amt": 250000,
+   "loan_term": 48,
+   "int_rate": 7.1
+ },
+ {
+   "id": 76,
+   "name": "Swati Reddy",
+   "age": 33,
+   "Income": 38000,
+   "cred_score": 680,
+   "loan_amt": 120000,
+   "loan_term": 36,
+   "int_rate": 8
+ }
+]
